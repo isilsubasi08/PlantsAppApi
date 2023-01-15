@@ -1,0 +1,22 @@
+[
+    {
+
+        "CategoryImage": "https://github.com/isilsubasi08/PlantsApp/blob/main/images/yaprakl%C4%B1_bitkiler.jpg",
+        "CategoryName": "Yaprakli Bitkiler"
+    },
+    {
+
+        "CategoryImage": "https://github.com/isilsubasi08/PlantsApp/blob/main/images/sa%C3%A7akl%C4%B1_bitkiler.jpg",
+        "CategoryName": "Sacakli Bitkiler"
+    },
+    {
+
+        "CategoryImage": "https://github.com/isilsubasi08/PlantsApp/blob/main/images/kakt%C3%BCs.png",
+        "CategoryName": "Kaktüs"
+    },
+    {
+
+        "CategoryImage": "https://github.com/isilsubasi08/PlantsApp/blob/main/images/cicekli_bitkiler.png",
+        "CategoryName": "Cicekli Bitkiler"
+    }
+]
