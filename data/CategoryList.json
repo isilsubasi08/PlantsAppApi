@@ -18,5 +18,30 @@
 
         "CategoryImage": "https://raw.githubusercontent.com/isilsubasi08/PlantsApp/main/images/cicekli_bitkiler.png",
         "CategoryName": "Cicekli Bitkiler"
+    },
+    {
+
+        "CategoryImage": "https://raw.githubusercontent.com/isilsubasi08/PlantsApp/main/images/aromatik_bitkiler.jpg",
+        "CategoryName": "Aromatik Bitkiler"
+    },
+    {
+
+        "CategoryImage": "https://raw.githubusercontent.com/isilsubasi08/PlantsApp/main/images/tibbi_bitkiler.jpg",
+        "CategoryName": "Tıbbi Bitkiler"
+    },
+    {
+
+        "CategoryImage": "https://raw.githubusercontent.com/isilsubasi08/PlantsApp/main/images/s%C3%BCs_bitkileri.jpg",
+        "CategoryName": "Süs Bitkileri"
+    },
+    {
+
+        "CategoryImage": "https://raw.githubusercontent.com/isilsubasi08/PlantsApp/main/images/palmiye_agaclari.jpg",
+        "CategoryName": "Palmiye Ağaçları"
+    },
+    {
+
+        "CategoryImage": "https://raw.githubusercontent.com/isilsubasi08/PlantsApp/main/images/orman_bitkileri.jpg",
+        "CategoryName": "Orman Bitkileri"
     }
 ]
